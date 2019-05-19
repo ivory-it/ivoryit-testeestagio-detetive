@@ -5,14 +5,14 @@ Na gloriosa cidade de Springfield o banqueiro Carlos Fortuna foi assassinado em 
 ### Suspeitos
 |   |  |
 | ------------- | ------------- |
-| ![1 - Advogado Sr. Marinho](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem1.jpg) | 1 - Advogado Sr. Marinho  |
-| ![2 - Chef. de Cozinha Tony Gourmet](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem2.jpg) | 2 - Chef. de Cozinha Tony Gourmet  |
-| ![3 - Coveiro Sérgio Sortuno](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem3.jpg) | 3 - Coveiro Sérgio Sortuno  |
-| ![4 - Dançarina Srta. Rosa](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem4.jpg) | 4 - Dançarina Srta. Rosa |
-| ![5 - Florista Dona Branca](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem5.jpg) | 5 - Florista Dona Branca |
-| ![6 - Médica Dona Violeta](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem6.jpg) | 6 - Médica Dona Violeta |
-| ![7 - Mordomo James](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem7.jpg) | 7 - Mordomo James |
-| ![8 - Sargento Bigode](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem8.jpg) | 8 - Sargento Bigode |
+| ![1 - Advogado Sr. Marinho](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/personagem1.jpg) | 1 - Advogado Sr. Marinho  |
+| ![2 - Chef. de Cozinha Tony Gourmet](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/personagem2.jpg) | 2 - Chef. de Cozinha Tony Gourmet  |
+| ![3 - Coveiro Sérgio Sortuno](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/personagem3.jpg) | 3 - Coveiro Sérgio Sortuno  |
+| ![4 - Dançarina Srta. Rosa](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/personagem4.jpg) | 4 - Dançarina Srta. Rosa |
+| ![5 - Florista Dona Branca](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/personagem5.jpg) | 5 - Florista Dona Branca |
+| ![6 - Médica Dona Violeta](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/personagem6.jpg) | 6 - Médica Dona Violeta |
+| ![7 - Mordomo James](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/masterimagens//personagem7.jpg) | 7 - Mordomo James |
+| ![8 - Sargento Bigode](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/personagem8.jpg) | 8 - Sargento Bigode |
 
 ### Locais
 |   |                 |
@@ -30,12 +30,12 @@ Na gloriosa cidade de Springfield o banqueiro Carlos Fortuna foi assassinado em 
 ### Armas
 |   |               |
 | - | ------------- |
-| ![1 - Castiçal](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/arma1.jpg) | 1 - Castiçal      |
-| ![2 - Cano](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/arma2.jpg) | 2 - Cano          |
-| ![3 - Chave inglesa](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/arma3.jpg) | 3 - Chave inglesa |
-| ![4 - Corda](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/arma4.jpg) | 4 - Corda         |
-| ![5 - Revólver](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/arma5.jpg) | 5 - Revólver      |
-| ![6 - Faca](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/arma6.jpg) | 6 - Faca          |
+| ![1 - Castiçal](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/arma1.jpg) | 1 - Castiçal      |
+| ![2 - Cano](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/arma2.jpg) | 2 - Cano          |
+| ![3 - Chave inglesa](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/arma3.jpg) | 3 - Chave inglesa |
+| ![4 - Corda](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/arma4.jpg) | 4 - Corda         |
+| ![5 - Revólver](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/arma5.jpg) | 5 - Revólver      |
+| ![6 - Faca](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/arma6.jpg) | 6 - Faca          |
 
 ## Testemunha
 Uma testemunha foi encontrada, mas ela só consegue responder se Holmes fornecer uma teoria. Para cada teoria ele deve perguntar sobre um suspeito, local e arma. A testemunha então responde com um número: 
