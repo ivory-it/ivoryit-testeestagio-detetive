@@ -46,7 +46,6 @@ Uma testemunha foi encontrada, mas ela só consegue responder se Holmes fornecer
 - **3** indica que a arma está incorreta.
 
 **Exemplo:**
-
 Se o assassino for **2 - Chef. de Cozinha Tony Gourmet**, na **2 - Cozinha** e usando **4 - Corda** (2, 2, 4):
 
 **Teoria: 1, 1, 1**
@@ -59,6 +58,7 @@ Se o assassino for **2 - Chef. de Cozinha Tony Gourmet**, na **2 - Cozinha** e u
 - Retorno: 1 (somente o assassino está incorreto)
 
 **Teoria: 2, 2, 4**
-- Retorno: 0 (todos corretos, você solucionou o caso)
+- Retorno: 0 (todos corretos, você solucionou o caso :smirk:)
+
 
 Você precisa desenvolver um programa que tente resolver o problema. Inicialmente não se preocupe no número de tentativas necessário para encontrar a solução. Depois tente melhorar a maneira com que as teorias são testadas para que Lin encontre a solução do problema no menor número de tentativas.
