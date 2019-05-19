@@ -72,7 +72,9 @@ Você precisa desenvolver um programa que tente resolver o problema com o menor 
 7. Portanto na classe `Program.cs` no comentário `Escreva seu código aqui.`, basta utilizar a váriavel `testemunha` chamando o método `testemunha.Interrogar(criminoso, local, arma)` para receber uma resposta. Toda vez que você chamar esté método, o mesmo irá contabilizar uma tentativa, repare que no final do programa existe uma linha que imprime a número de tentativa. Está linha deverá somente ser executada após o detetive realizar todas as perguntas e receber da testemunha uma resposta de número 0 (Criminoso, local e arma corretos).
 8. Após finalizar basta subir as alterações (commit/push) para sua conta. E responder o e-mail do teste com o link da sua conta no GitHub.
 
-### Regrs
+### Regras
+1. Ao codificar matenha seu código limpo e coerente. Manter padronização ajuda a equipe entender o que foi codificado e ajuda na manutenção futuras. Algumas dicas ![Padronização Códificação](https://github.com/ivory-it/ivoryit-testeestagio-detetive/wiki/Padroniza%C3%A7%C3%A3o-codifica%C3%A7%C3%A3o);
+2. A classe `Testemunha.cs` não pode ser modificada.
 
 
 
