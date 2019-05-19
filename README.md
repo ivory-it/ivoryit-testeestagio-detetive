@@ -73,7 +73,7 @@ Você precisa desenvolver um programa que tente resolver o problema com o menor 
 8. Após finalizar basta subir as alterações (commit/push) para sua conta. E responder o e-mail do teste com o link da sua conta no GitHub.
 
 ### Regras
-1. Ao codificar matenha seu código limpo e coerente. Manter padronização ajuda a equipe entender o que foi codificado e ajuda na manutenção futuras. Algumas dicas ![Padronização Códificação](https://github.com/ivory-it/ivoryit-testeestagio-detetive/wiki/Padroniza%C3%A7%C3%A3o-codifica%C3%A7%C3%A3o);
+1. Ao codificar matenha seu código limpo e coerente. Manter padronização ajuda a equipe entender o que foi codificado e ajuda na manutenção futuras. Algumas dicas: ![Padronização Códificação](https://github.com/ivory-it/ivoryit-testeestagio-detetive/wiki/Padroniza%C3%A7%C3%A3o-codifica%C3%A7%C3%A3o);
 2. A classe `Testemunha.cs` não pode ser modificada.
 
 
