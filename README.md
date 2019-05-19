@@ -1,5 +1,4 @@
-# ivoryit-testeestagio-detetive
-
+# Detetive
 Na gloriosa cidade de Springfield o banqueiro Carlos Fortuna foi assassinado em sua mansão. O investigador Holmes foi escolhido para investigar este caso. Após uma série de investigações, ele organizou uma lista com prováveis assassinos, os locais do crime e armas que poderiam ter sido utilizadas.
 
 ## Confidêncial
@@ -60,5 +59,15 @@ Se o assassino for **2 - Chef. de Cozinha Tony Gourmet**, na **2 - Cozinha** e u
 **Teoria: 2, 2, 4**
 - Retorno: 0 (todos corretos, você solucionou o caso :smirk:)
 
+## Desafio
+Você precisa desenvolver um programa que tente resolver o problema com o menor número de perguntas realizadas a testemunha.
 
-Você precisa desenvolver um programa que tente resolver o problema. Inicialmente não se preocupe no número de tentativas necessário para encontrar a solução. Depois tente melhorar a maneira com que as teorias são testadas para que Lin encontre a solução do problema no menor número de tentativas.
+### Roteiro
+1. Ter uma conta no GitHub;
+2. Realizar o fork deste repositório para sua conta. Assim você terá uma copia do projeto base e iniciar a construção da sua solução;
+3. Uma vez com o projeto em sua conta, realize o clone da mesma para codificar;
+4. Abra a solução no VisualStudio/VisualCode (O projeto base é uma console application utilizando .Net Framework 4.6);
+5. Ao abrir o projeto a class `Program.cs` terá uma instância da classe `Testemunha.cs` criada `var testemunha = new Testemunha();`. Se você analisar o construtor desta classe, verá que ela irá criar um crime de forma aleatória. Portanto a testemunha já visualizou o crime e possui em sua memória um criminoso, local e arma.
+6. Ainda na classe `Testemunha.cs`, repare que existe um método intitulado `Interrogar`. Com ele podemos testar as teorias, basta passar um número que identifique um criminoso, local e arma. Que o método irá lhe responder coforme descrito logo acima na sessão Testemunha.
+7. Portanto na classe `Program.cs` no comentário `Escreva seu código aqui.`, basta utilizar a váriavel testemunha chamando o método `testemunha.Interrogar(criminoso, local, arma)` para receber uma resposta da testemunha. Toda vez que você chamar esté método o mesmo irá contabilizar uma tentativa, repare que no final do programa existe uma linha que imprime a número de tentativa. Está linha deverá somente ser executada após o detetetive realizar todas as perguntas e receber da testemunha uma resposta de número 0 (Criminoso, local e arma corretos).
+
