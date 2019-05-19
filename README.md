@@ -17,15 +17,15 @@ Na gloriosa cidade de Springfield o banqueiro Carlos Fortuna foi assassinado em 
 ### Locais
 |   |                 |
 | - | --------------- |
-| 1 | Biblioteca      |
-| 2 | Cozinha         |
-| 3 | Hall            |
-| 4 | Escritório      |
-| 5 | Sala de estar   |
-| 6 | Sala de jantar  |
-| 7 | Sala de música  |
-| 8 | Salão de festas |
-| 9 | Salão de jogos  |
+| ![1 - Biblioteca](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local1.jpg) | 1 - Biblioteca      |
+| ![2 - Cozinha](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local2.jpg) | 2 - Cozinha         |
+| ![3 - Hall](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local3.jpg) | 3 - Hall            |
+| ![4 - Escritório](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local4.jpg) | 4 - Escritório      |
+| ![5 - Sala de estar](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local5.jpg) | 5 - Sala de estar   |
+| ![6 - Sala de jantar](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local6.jpg) | 6 - Sala de jantar  |
+| ![7 - Sala de música](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local7.jpg) | 7 - Sala de música  |
+| ![8 - Salão de festas](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local8.jpg) | 8 - Salão de festas |
+| ![9 - Salão de jogos](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/imagens/local9.jpg) | 9 - Salão de jogos  |
 
 ### Armas
 |   |               |
