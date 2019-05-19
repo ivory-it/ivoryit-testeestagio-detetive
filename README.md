@@ -49,16 +49,16 @@ Uma testemunha foi encontrada, mas ela só consegue responder se Holmes fornecer
 
 Se o assassino for **2 - Chef. de Cozinha Tony Gourmet**, na **2 - Cozinha** e usando **4 - Corda** (2, 2, 4):
 
-Teoria: 1, 1, 1
-Retorno: 1, ou 2, ou 3 (todos estão incorretos) 
+**Teoria: 1, 1, 1**
+- Retorno: 1, 2 ou 3 (todos estão incorretos) 
 
-Teoria: 3, 1, 3
-Retorno: 1, ou 3 (somente o local está correto)
+**Teoria: 1, 2, 1**
+- Retorno: 1 ou 3 (somente o local está correto)
 
-Teoria: 5, 3, 4
-Retorno: 1 (somente o assassino está incorreto)
+**Teoria: 1, 2, 4**
+- Retorno: 1 (somente o assassino está incorreto)
 
-Teoria: 2, 3, 4
-Retorno: 0 (todos corretos, você solucionou o caso)
+**Teoria: 2, 2, 4**
+- Retorno: 0 (todos corretos, você solucionou o caso)
 
 Você precisa desenvolver um programa que tente resolver o problema. Inicialmente não se preocupe no número de tentativas necessário para encontrar a solução. Depois tente melhorar a maneira com que as teorias são testadas para que Lin encontre a solução do problema no menor número de tentativas.
