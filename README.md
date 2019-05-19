@@ -40,7 +40,7 @@ Na gloriosa cidade de Springfield o banqueiro Carlos Fortuna foi assassinado em 
 ## Testemunha
 Uma testemunha foi encontrada, mas ela só consegue responder se Holmes fornecer uma teoria. Para cada teoria ele deve perguntar sobre um suspeito, local e arma. A testemunha então responde com um número: 
 - **0** caso a teoria estiver correta;
-- **1** indica que o assassiono está incorreto; 
+- **1** indica que o suspeito está incorreto; 
 - **2** indica que o local está incorreto;
 - **3** indica que a arma está incorreta.
 
@@ -64,10 +64,15 @@ Você precisa desenvolver um programa que tente resolver o problema com o menor 
 
 ### Roteiro
 1. Ter uma conta no GitHub;
-2. Realizar o fork deste repositório para sua conta. Assim você terá uma copia do projeto base e iniciar a construção da sua solução;
-3. Uma vez com o projeto em sua conta, realize o clone da mesma para codificar;
+2. Realizar o `fork` deste repositório para sua conta. Assim você terá uma copia do projeto base;
+3. Uma vez com o projeto em sua conta, realize o `clone` da mesma para codificar;
 4. Abra a solução no VisualStudio/VisualCode (O projeto base é uma console application utilizando .Net Framework 4.6);
-5. Ao abrir o projeto a class `Program.cs` terá uma instância da classe `Testemunha.cs` criada `var testemunha = new Testemunha();`. Se você analisar o construtor desta classe, verá que ela irá criar um crime de forma aleatória. Portanto a testemunha já visualizou o crime e possui em sua memória um criminoso, local e arma.
-6. Ainda na classe `Testemunha.cs`, repare que existe um método intitulado `Interrogar`. Com ele podemos testar as teorias, basta passar um número que identifique um criminoso, local e arma. Que o método irá lhe responder coforme descrito logo acima na sessão Testemunha.
-7. Portanto na classe `Program.cs` no comentário `Escreva seu código aqui.`, basta utilizar a váriavel testemunha chamando o método `testemunha.Interrogar(criminoso, local, arma)` para receber uma resposta da testemunha. Toda vez que você chamar esté método o mesmo irá contabilizar uma tentativa, repare que no final do programa existe uma linha que imprime a número de tentativa. Está linha deverá somente ser executada após o detetetive realizar todas as perguntas e receber da testemunha uma resposta de número 0 (Criminoso, local e arma corretos).
+5. Ao abrir o projeto a class `Program.cs` terá uma instância da classe `Testemunha.cs` criada, `var testemunha = new Testemunha();`. Se você analisar o construtor desta classe, verá que ela irá criar um crime de forma aleatória. Portanto a testemunha já visualizou o crime e possui em sua memória um criminoso, local e arma;
+6. Ainda na classe `Testemunha.cs`, repare que existe um método intitulado `Interrogar`. Com ele podemos testar as teorias, basta passar um número que identifique um criminoso, local e arma. Que o método irá lhe responder coforme descrito logo acima na sessão Testemunha;
+7. Portanto na classe `Program.cs` no comentário `Escreva seu código aqui.`, basta utilizar a váriavel `testemunha` chamando o método `testemunha.Interrogar(criminoso, local, arma)` para receber uma resposta. Toda vez que você chamar esté método, o mesmo irá contabilizar uma tentativa, repare que no final do programa existe uma linha que imprime a número de tentativa. Está linha deverá somente ser executada após o detetive realizar todas as perguntas e receber da testemunha uma resposta de número 0 (Criminoso, local e arma corretos).
+8. Após finalizar basta subir as alterações (commit/push) para sua conta. E responder o e-mail do teste com o link da sua conta no GitHub.
+
+### Regrs
+
+
 
