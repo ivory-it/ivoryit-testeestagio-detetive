@@ -9,7 +9,7 @@ Na gloriosa cidade de Springfield o banqueiro Carlos Fortuna foi assassinado em 
 | ![2 - Chef. de Cozinha Tony Gourmet](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem2.jpg) | 2 - Chef. de Cozinha Tony Gourmet  |
 | ![3 - Coveiro Sérgio Sortuno](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem3.jpg) | 3 - Coveiro Sérgio Sortuno  |
 | ![4 - Dançarina Srta. Rosa](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem4.jpg) | 4 - Dançarina Srta. Rosa |
-| ![5 - Florita Dona Branca](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem5.jpg) | 5 - Florita Dona Branca |
+| ![5 - Florista Dona Branca](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem5.jpg) | 5 - Florista Dona Branca |
 | ![6 - Médica Dona Violeta](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem6.jpg) | 6 - Médica Dona Violeta |
 | ![7 - Mordomo James](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem7.jpg) | 7 - Mordomo James |
 | ![8 - Sargento Bigode](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem8.jpg) | 8 - Sargento Bigode |
