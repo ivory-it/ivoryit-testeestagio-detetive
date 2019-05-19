@@ -2,42 +2,52 @@
 
 Na gloriosa cidade de Springfield o banqueiro Carlos Fortuna foi assassinado em sua mansão. O investigador Holmes foi escolhido para investigar este caso. Após uma série de investigações, ele organizou uma lista com prováveis assassinos, os locais do crime e armas que poderiam ter sido utilizadas.
 
+## Confidêncial
 ### Suspeitos
-
-1 - Advogado Sr. Marinho
-2 - Chef. de Cozinha Tony Gourmet
-3 - Coveiro Sérgio Sortuno
-4 - Dançarina Srta. Rosa
-5 - Florita Dona Branca
-6 - Médica Dona Violeta
-7 - Mordomo James
-8 - Sargento Bigode
+|   |  |
+| ------------- | ------------- |
+| ![1 - Advogado Sr. Marinho](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem1.jpg) | 1 - Advogado Sr. Marinho  |
+| ![2 - Chef. de Cozinha Tony Gourmet](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem2.jpg) | 2 - Chef. de Cozinha Tony Gourmet  |
+| ![3 - Coveiro Sérgio Sortuno](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem3.jpg) | 3 - Coveiro Sérgio Sortuno  |
+| ![4 - Dançarina Srta. Rosa](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem4.jpg) | 4 - Dançarina Srta. Rosa |
+| ![5 - Florita Dona Branca](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem5.jpg) | 5 - Florita Dona Branca |
+| ![6 - Médica Dona Violeta](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem6.jpg) | 6 - Médica Dona Violeta |
+| ![7 - Mordomo James](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem7.jpg) | 7 - Mordomo James |
+| ![8 - Sargento Bigode](https://github.com/ivory-it/ivoryit-testeestagio-detetive/blob/master/personagem8.jpg) | 8 - Sargento Bigode |
 
 ### Locais
-
-1 - Biblioteca
-2 - Cozinha
-3 - Hall
-4 - Escritório
-5 - Sala de estar
-6 - Sala de jantar
-7 - Sala de música
-8 - Salão de festas
-9 - Salão de jogos
+|   |                 |
+| - | --------------- |
+| 1 | Biblioteca      |
+| 2 | Cozinha         |
+| 3 | Hall            |
+| 4 | Escritório      |
+| 5 | Sala de estar   |
+| 6 | Sala de jantar  |
+| 7 | Sala de música  |
+| 8 | Salão de festas |
+| 9 | Salão de jogos  |
 
 ### Armas
+|   |               |
+| - | ------------- |
+| 1 | Castiçal      |
+| 2 | Cano          |
+| 3 | Chave inglesa |
+| 4 | Corda         |
+| 5 | Revólver      |
+| 6 | Faca          |
 
-1 - Castiçal
-2 - Cano
-3 - Chave inglesa
-4 - Corda
-5 - Revólver
-6 - Faca
+## Testemunha
+Uma testemunha foi encontrada, mas ela só consegue responder se Holmes fornecer uma teoria. Para cada teoria ele deve perguntar sobre um suspeito, local e arma. A testemunha então responde com um número: 
+- **0** caso a teoria estiver correta;
+- **1** indica que o assassiono está incorreto; 
+- **2** indica que o local está incorreto;
+- **3** indica que a arma está incorreta.
 
+**Exemplo:**
 
-Uma testemunha foi encontrada, mas ela só consegue responder se Lin fornecer uma teoria. Para cada teoria ele "chuta" um assassino, um local e uma arma. A testemunha então responde com um número. Se a teoria estiver correta (assassino, local e arma corretos), ela responde 0. Se a teoria está errada, um valor 1,2 ou 3 é retornado. 1 indica que o assassiona está incorreto; 2 indica que o local está incorreto; 3 indica que a arma está incorreta. Se mais de uma suposição está incorreta, ela retorna um valor arbitrário entre as que estão incorretos (isso é totalmente aleatório).
-
-Por exemplo, se o assassino for Donald Duck Knuth usando um trezoitão em Tokio:
+Se o assassino for **2 - Chef. de Cozinha Tony Gourmet**, na **2 - Cozinha** e usando **4 - Corda** (2, 2, 4):
 
 Teoria: 1, 1, 1
 Retorno: 1, ou 2, ou 3 (todos estão incorretos) 
