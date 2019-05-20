@@ -67,14 +67,12 @@ Você precisa desenvolver um programa que tente resolver o problema com o menor 
 2. Realizar o `fork` deste repositório para sua conta. Assim você terá uma copia do projeto base;
 3. Uma vez com o projeto em sua conta, realize o `clone` da mesma para codificar;
 4. Abra a solução no VisualStudio/VisualCode (O projeto base é uma console application utilizando .Net Framework 4.6);
-5. Ao abrir o projeto a class `Program.cs` terá uma instância da classe `Testemunha.cs` criada, `var testemunha = new Testemunha();`. Se você analisar o construtor desta classe, verá que ela irá criar um crime de forma aleatória. Portanto a testemunha já visualizou o crime e possui em sua memória um criminoso, local e arma;
+5. Ao abrir o projeto a classe `Program.cs` terá uma instância da classe `Testemunha.cs` criada, `var testemunha = new Testemunha();`. Se você analisar o construtor desta classe, verá que ela irá criar um crime de forma aleatória. Portanto a testemunha já visualizou o crime e possui em sua memória um criminoso, local e arma;
 6. Ainda na classe `Testemunha.cs`, repare que existe um método intitulado `Interrogar`. Com ele podemos testar as teorias, basta passar um número que identifique um criminoso, local e arma. Que o método irá lhe responder coforme descrito logo acima na sessão Testemunha;
-7. Portanto na classe `Program.cs` no comentário `Escreva seu código aqui.`, basta utilizar a váriavel `testemunha` chamando o método `testemunha.Interrogar(criminoso, local, arma)` para receber uma resposta. Toda vez que você chamar esté método, o mesmo irá contabilizar uma tentativa, repare que no final do programa existe uma linha que imprime a número de tentativa. Está linha deverá somente ser executada após o detetive realizar todas as perguntas e receber da testemunha uma resposta de número 0 (Criminoso, local e arma corretos).
-8. Após finalizar basta subir as alterações (commit/push) para sua conta. E responder o e-mail do teste com o link da sua conta no GitHub.
+7. Portanto na classe `Program.cs` no comentário `Escreva seu código aqui.`, escreva uma algoritimo que simule um detetive realizando as perguntas utilizando o método `testemunha.Interrogar(criminoso, local, arma)`. Toda vez que você chamar esté método, o mesmo irá contabilizar uma tentativa, repare que no final do programa existe uma linha que imprime a número de tentativa. Está linha deverá somente ser executada após o detetive realizar todas as perguntas e receber da testemunha uma resposta de número 0 (criminoso, local e arma corretos);
+8. Após finalizar, basta subir as alterações (commit/push) para sua conta. E responder o e-mail do teste com o link da sua conta no GitHub.
 
-### Regras
-1. Ao codificar matenha seu código limpo e coerente. Manter padronização ajuda a equipe entender o que foi codificado e ajuda na manutenção futuras. Algumas dicas: ![Padronização Códificação](https://github.com/ivory-it/ivoryit-testeestagio-detetive/wiki/Padroniza%C3%A7%C3%A3o-codifica%C3%A7%C3%A3o);
-2. A classe `Testemunha.cs` não pode ser modificada.
-
-
-
+### Dicas / Regras
+1. Ao codificar matenha seu código limpo e coerente. Manter padronização ajuda a equipe entender o que foi codificado, além de ajudar na manutenção futuras. Algumas dicas: ![Padronização Códificação](https://github.com/ivory-it/ivoryit-testeestagio-detetive/wiki/Padroniza%C3%A7%C3%A3o-codifica%C3%A7%C3%A3o);
+2. A classe `Testemunha.cs` não pode ser modificada;
+3. Qualquer duvida entre em contato: thiago.resende@ivoryit.com.br
